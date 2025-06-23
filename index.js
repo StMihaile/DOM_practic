@@ -29,3 +29,25 @@ textQs.forEach(element => {
 });
 
 */
+/*
+2
+
+const headingEl = document.querySelector('.heading');
+console.log(headingEl.parentNode);
+
+console.log(headingEl.previousElementSibling);
+//console.log(headingEl.previousSibling);
+console.log(headingEl.nextElementSibling);
+//console.log(headingEl.nextSibling);
+
+headingEl.nextElementSibling.textContent = 'New text heading'
+
+//console.log(headingEl.nextElementSibling.nextElementSibling);
+
+const contentEl = document.querySelector('.content');
+console.log(contentEl.firstElementChild);
+console.log(contentEl.lastElementChild);
+//console.log(contentEl.firstChild);
+//console.log(contentEl.lastChild);
+
+*/
