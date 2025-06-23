@@ -51,3 +51,26 @@ console.log(contentEl.lastElementChild);
 //console.log(contentEl.lastChild);
 
 */
+/*
+3
+
+const titleEl = document.querySelector('.title'); 
+titleEl.classList.add('super-heading');
+titleEl.classList.remove('super-heading');
+console.log(titleEl.classList.contains('title'));
+
+//titleEl.textContent = 'Text in JS';
+
+//titleEl.style.color = 'red';
+//titleEl.style.backgroundColor = 'grey';
+
+
+//console.log(titleEl.tagName.toLocaleLowerCase());
+//console.log(`Название id: '${titleEl.id}'`);
+//console.log(titleEl.className);
+
+*/
+
+
+
+
